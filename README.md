@@ -4,12 +4,11 @@
 Welcome to my GitHub profile!
 
 ## 📋 About me:
-I'm passionate about continuous learning and growth in the field of technology.
+I love learning new things and strive to develop professionally.
 <br>
-Currently, I'm exploring various Machine Learning projects
-and enjoying the journey of applying these skills.
+I'm currently passionate about machine learning projects and enjoy applying the skills I have acquired in practice.
 <br>
-In my free time, I find balance by engaging in chess and football.
+In my free time, I play chess and football.
 
 ## 📞 Connect with me:
 <a href="https://t.me/Slyuntik"><img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Telegram.png" alt="Telegram"></a>
@@ -30,16 +29,16 @@ In my free time, I find balance by engaging in chess and football.
   <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Postgre%20SQL%20.png" alt="Postgre SQL">
 </div>
 
-## 🎓 Projects from Studies:
-[Minecraft-clicker-game](https://github.com/Slyuntik/Minecraft-clicker-game) - Краткое описание проекта
+## 📚 Projects from Courses:
+[Car-price-prediction-model](https://github.com/Slyuntik/Car-price-prediction-model)
 <br>
-[Pirates-and-cannons-game](https://github.com/Slyuntik/Pirates-and-cannons-game) - Краткое описание проекта
-<br>
-[Software-module-for-displaying-navigation-information](https://github.com/Slyuntik/Software-module-for-displaying-navigation-information) - Краткое описание проекта
+[Target-action-prediction-model](https://github.com/Slyuntik/Target-action-prediction-model)
 
-## 📚 Some Projects from Courses:
-[Car-price-prediction-model](https://github.com/Slyuntik/Car-price-prediction-model) - Краткое описание проекта
+## 🎓 Projects from Studies:
+[Minecraft-clicker-game](https://github.com/Slyuntik/Minecraft-clicker-game)
 <br>
-[Target-action-prediction-model](https://github.com/Slyuntik/Target-action-prediction-model) - Краткое описание проекта
+[Pirates-and-cannons-game](https://github.com/Slyuntik/Pirates-and-cannons-game)
+<br>
+[Software-module-for-displaying-navigation-information](https://github.com/Slyuntik/Software-module-for-displaying-navigation-information)
 
 </div>
