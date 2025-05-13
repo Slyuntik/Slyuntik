@@ -12,9 +12,9 @@ and enjoying the journey of applying these skills.
 In my free time, I find balance by engaging in chess and football.
 
 ## 📞 Connect with me:
-<a href="Здесь_ссылка_на_ваш_Telegram"><img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Telegram.png" alt="Telegram"></a>
-<a href="Здесь_ссылка_на_ваш_Gmail"><img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Gmail.png" alt="Gmail"></a>
-<a href="Здесь_ссылка_на_ваш_VK"><img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/VK.png" alt="VK"></a>
+<a href="https://t.me/Slyuntik"><img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Telegram.png" alt="Telegram"></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=fwmvGMDSjCkzZQphlHwBBmxtJfQXnhWbwpdlTdKwZJkZxkrVpFwXQXCNgCJgCrqwqfSbzgVqzsNLcQJFCsFhlbHLnBJWKgZkGJTWlshTWGPwZsWFHPxb"><img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Gmail.png" alt="Gmail"></a>
+<a href="https://vk.com/danikotskoker"><img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/VK.png" alt="VK"></a>
 
 ## 🛠️ Languages and Tools:
 <div>
