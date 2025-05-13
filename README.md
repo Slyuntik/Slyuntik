@@ -1,6 +1,6 @@
-<div align="center" style="background-color:#E6E6FA; padding: 20px;">
+<div align="center">
 
-# Hello, I'm Maxim! 👋
+# Hello, I'm Maxim 👋
 Welcome to my GitHub profile!
 
 ## 📋 About me:
