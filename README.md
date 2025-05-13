@@ -9,22 +9,23 @@
 Постоянно учусь и развиваюсь в сфере IT.
 
 ## 🔗 Connect with me:
-<a href="Здесь_ссылка_на_ваш_VK"><img src="https://img.shields.io/badge/VK-2CA5E0?style=for-the-badge&logo=vk&logoColor=white" alt="VK"></a>
-<a href="Здесь_ссылка_на_ваш_Telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="Здесь_ссылка_на_ваш_Telegram"><img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Telegram.png" alt="Telegram"></a>
+<a href="Здесь_ссылка_на_ваш_Gmail"><img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Gmail.png" alt="Gmail"></a>
+<a href="Здесь_ссылка_на_ваш_VK"><img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/VK.png" alt="VK"></a>
 
 ## 🛠️ Languages and Tools:
 <div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-005A8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Java.png" alt="Java">
+  <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/C%2B%2B.png" alt="C++">
+  <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Python.png" alt="Python">
+  <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Postgre%20SQL%20.png" alt="Postgre SQL">
   <br>
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
-  <img src="https://img.shields.io/badge/Hadoop-666666?style=for-the-badge&logo=apache-hadoop&logoColor=white" alt="Hadoop">
+  <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Jupyter%20Notebook.png" alt="Jupyter Notebook">
+  <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/PyCharm.png" alt="PyCharm">
+  <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Qt.png" alt="Qt">
   <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Docker.png" alt="Docker">
+  <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Git.png" alt="Git">
 </div>
 
 </div>
