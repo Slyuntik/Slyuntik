@@ -1,6 +1,6 @@
 <div align="center" style="background-color:#E6E6FA; padding: 20px;">
 
-# Hi! Nice to see you here! 👋
+# Hello, I'm Maxim! Nice to see you here! 👋
 Welcome to my GitHub profile!
 
 ## 📋 About me:
@@ -10,8 +10,6 @@ Currently, I'm exploring various Machine Learning projects
 and enjoying the journey of applying these skills.
 <br>
 In my free time, I find balance by engaging in chess and football.
-
-
 
 ## 📞 Connect with me:
 <a href="Здесь_ссылка_на_ваш_Telegram"><img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Telegram.png" alt="Telegram"></a>
