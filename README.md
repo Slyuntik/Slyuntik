@@ -17,13 +17,11 @@
 <div>
   <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Python.png" alt="Python">
   <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/C%2B%2B.png" alt="C++">
-  <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Java.png" alt="Java">
   <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/SQL.png" alt="SQL">
   <br>
   <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Jupyter%20Notebook.png" alt="Jupyter Notebook">
   <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/PyCharm.png" alt="PyCharm">
   <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Qt.png" alt="Qt">
-  <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/IntelliJ%20IDEA.png" alt="IntelliJ IDEA">
   <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Postgre%20SQL%20.png" alt="Postgre SQL">
   <br>
   <img src="https://github.com/Slyuntik/Slyuntik/blob/main/images/Docker.png" alt="Docker">
